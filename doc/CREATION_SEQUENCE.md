@@ -2,3 +2,6 @@
 - renamed
 - deleted and re-initialized git
 - added doc, asset, rdx, wc, and rdx/model directories
+- npm run service-worker
+- tested with lighthouse
+- added <title> per lighthouse
