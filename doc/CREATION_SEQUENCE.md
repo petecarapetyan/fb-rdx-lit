@@ -5,3 +5,5 @@
 - npm run service-worker
 - tested with lighthouse
 - added <title> per lighthouse
+- added first 5 documents in the doc folder
+
