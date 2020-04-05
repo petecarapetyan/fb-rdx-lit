@@ -1,0 +1,4 @@
+- git clone vp-starter
+- renamed
+- deleted and re-initialized git
+- added doc, asset, rdx, wc, and rdx/model directories
