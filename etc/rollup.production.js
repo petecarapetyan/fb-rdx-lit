@@ -8,7 +8,7 @@ import { terser } from "rollup-plugin-terser";
 module.exports = {
     input: "./src/index.ts",
     output: {
-        dir: "./public/scripts",
+        dir: "./dist/scripts",
         format: "esm",
         sourcemap: true
     },

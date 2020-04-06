@@ -10,13 +10,13 @@ import size from "rollup-plugin-size";
 module.exports = {
     input: "./src/index.ts",
     output: {
-        dir: "./public/scripts",
+        dir: "./dist/scripts",
         format: "esm",
     },
     plugins: [
         commonjs(),
         copy({
-            targets: [{ src: "/asset", dest: "public" }],
+            targets: [{ src: "/asset", dest: "dist" }],
         }),
         resolve({dedupe: [
             '@captaincodeman/rdx',

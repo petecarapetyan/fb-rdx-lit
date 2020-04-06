@@ -5,7 +5,7 @@ import { terser } from "rollup-plugin-terser";
 module.exports = {
     input: "./tmp/service-worker.js",
     output: {
-        dir: "./public",
+        dir: "./dist",
         format: "esm"
     },
     plugins: [globals(), resolve(), terser()]

@@ -1,4 +1,4 @@
 /node_modules
-/public/scripts
-/public/service-worker.js
+/dist/scripts
+/dist/service-worker.js
 /tmp
