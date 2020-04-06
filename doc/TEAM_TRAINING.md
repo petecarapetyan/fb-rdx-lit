@@ -34,3 +34,12 @@ If you're a singular logic gate kind of guy, (For example "DX is all that matter
 - something here about how state of art leaves horrifying wrong instructions in legacy conversations
 - always working same way trumps freedom to use what I want and get it working
 
+## For when it's too much to sequence logic filters:
+
+"More than two objectives is no objectives at all" Mark Shepard
+
+Some of the above is just too eye-rolling to consider. So how to figure out which ones are worth paying attention to?
+
+- stone tools are not my first choice
+- slow is bad
+- stupid is bad
