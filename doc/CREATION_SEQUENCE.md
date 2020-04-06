@@ -6,4 +6,7 @@
 - tested with lighthouse
 - added <title> per lighthouse
 - added first 5 documents in the doc folder
+- tried adding manifest failed
+- added TOC and other doc changes
+- added as many cool-ness enhancements to dev rollup as I could find and steal from elsewhere
 
